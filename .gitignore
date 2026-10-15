@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.log
+.DS_Store
+._*
+# Training logs written by the checkpoint build; not part of the release.
+build_logs/
+.build.lock
